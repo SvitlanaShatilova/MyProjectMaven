@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <adress>
+        <bild>22</bild>
+        <city>Kyiv</city>
+        <street>Khreshchatyk</street>
+    </adress>
+    <adress>
+        <bild>34</bild>
+        <city>Cherkasy</city>
+        <street>Vyshnevetsky</street>
+    </adress>
+</catalog>
